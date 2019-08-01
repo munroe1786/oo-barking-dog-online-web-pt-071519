@@ -8,7 +8,7 @@ class Dog
   end
   
   def bark(string)
-    @this_dogs_name = "woof!"
+    @this_dogs_name = ("woof!")
   end
 end 
 
